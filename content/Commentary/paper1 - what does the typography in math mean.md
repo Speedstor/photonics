@@ -1,0 +1,3 @@
+- `\mathsfit` is a abbreviation of a name, power $\mathsfit{P}$, area $\mathsfit{A}$
+- `\mathbf` means it is a vector, position $\mathbf{r}$, electrical field $\mathbf{E}$, magnetic field $\mathbf{H}$
+- 

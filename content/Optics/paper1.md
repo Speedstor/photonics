@@ -1,0 +1,4 @@
+- monochromatic waves
+	- $u(\mathbf{r},t)=a(\mathbf{r})\cos [2\pi\nu t+\varphi(\mathbf{r})]$
+	- $\mathsfit{T}=1/\nu=2\pi/\omega=\text{period (s)}$
+- 
